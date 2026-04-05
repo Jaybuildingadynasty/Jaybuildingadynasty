@@ -4,7 +4,7 @@
 
 I document everything — prompts, process, failures, breakthroughs.  
 My work sits at the intersection of **cinematic AI video**, **brand identity**, and **Web3**.  
-Based in Nigeria. Building in public.
+Based in Nigeria, I work globally, USA and APAC specifically. Building in public.
 
 ---
 
@@ -16,7 +16,7 @@ I don't just write prompts. I build visual systems.
 - **Image Generation** — Midjourney, Flux, Ideogram. Editorial quality at speed.
 - **Style Development** — Consistent visual identity across AI-generated assets.
 - **Web3 Visual BD** — Helping DeFi and blockchain protocols stop looking terrible.
-- **Studio Production** — Creative director at Loud Squad, a Lagos-based content studio.
+- **Studio Production** — Operations Lead and Co-founder at Loud Squad, an Lagos-based content studio.
 
 ---
 
